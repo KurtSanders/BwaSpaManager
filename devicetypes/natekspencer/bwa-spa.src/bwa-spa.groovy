@@ -190,10 +190,10 @@ metadata {
 
         main("temperature")
         details(["temperature"
-            , "pump1", "heatSliderControl", "pump2"
-            , "pump3", "blower", "pump4"
-            , "pump5", "mister", "pump6"
-            , "light1", "refresh", "light2"])
+            , "pump1", "heatSliderControl", "refresh"
+            , "pump2"
+            // , "pump3", "blower", "pump4", "pump5", "mister", "pump6"
+            , "light1", "light2"])
     }
 }
 
